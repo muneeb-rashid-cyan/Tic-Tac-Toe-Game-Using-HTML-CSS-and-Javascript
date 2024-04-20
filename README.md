@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Muneeb Rashid - muneebcyan@example.com
+Muneeb Rashid - muneebcyan@gmail.com
 
 Project Link: [https://github.com/muneeb-rashid-cyan/Tic-Tac-Toe-Game-Using-HTML-CSS-and-Javascript.git](https://github.com/muneeb-rashid-cyan/Tic-Tac-Toe-Game-Using-HTML-CSS-and-Javascript.git)
 
